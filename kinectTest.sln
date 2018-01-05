@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kinectTest", "kinectTest\kinectTest.csproj", "{3E6C86F9-C748-41E6-97F2-686703956283}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{603A3AE1-CE7E-470E-B744-197877ADC9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6C86F9-C748-41E6-97F2-686703956283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6C86F9-C748-41E6-97F2-686703956283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6C86F9-C748-41E6-97F2-686703956283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6C86F9-C748-41E6-97F2-686703956283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
